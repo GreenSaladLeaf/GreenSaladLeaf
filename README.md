@@ -36,7 +36,7 @@ As a mother of two, I balance my analytical mindset with creativity and adaptabi
 [🔗 View My Resume](#) *(Link your resume here)*  
 
 ## 📬 Contact Me
-📌 **LinkedIn:** [Your LinkedIn Link](#)  
+📌 [**LinkedIn**](https://www.linkedin.com/in/rae-siow-59367663/)  
 📌 [**GitHub**](https://github.com/GreenSaladLeaf)  
 📌 [**Tableau Public**](https://public.tableau.com/app/profile/rae.siow/viz/bike_share_17343442737480/Dashboard2#1)  
 
