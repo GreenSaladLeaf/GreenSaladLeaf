@@ -1,8 +1,8 @@
-# Siow Hui Hui (Rae) - Data Analytics Portfolio
+# Hui Hui Siow (Rae) - Data Analytics Portfolio
 
 ## 👋 About Me
 
-Hi, I’m **Siow Hui Hui**, but you can call me **Rae**! I’m a data analytics enthusiast based in **Adelaide, Australia**. With a background in **engineering** and a passion for uncovering insights from massive datasets, I enjoy using **SQL** to explore and analyze data. I find satisfaction in solving problems and discovering meaningful patterns that drive decision-making.
+Hi, I’m **Hui Hui Siow**, but you can call me **Rae**! I’m a data analytics enthusiast based in **Adelaide, Australia**. With a background in **engineering** and a passion for uncovering insights from massive datasets, I enjoy using **SQL** to explore and analyze data. I find satisfaction in solving problems and discovering meaningful patterns that drive decision-making.
 
 As a mother of two, I balance my analytical mindset with creativity and adaptability—skills that are valuable both in life and data analytics.
 
@@ -37,6 +37,5 @@ As a mother of two, I balance my analytical mindset with creativity and adaptabi
 
 ## 📬 Contact Me
 📌 [**LinkedIn**](https://www.linkedin.com/in/rae-siow-59367663/)  
-📌 [**GitHub**](https://github.com/GreenSaladLeaf)  
 📌 [**Tableau Public**](https://public.tableau.com/app/profile/rae.siow/viz/bike_share_17343442737480/Dashboard2#1)  
 
