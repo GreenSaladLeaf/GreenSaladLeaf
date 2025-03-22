@@ -32,9 +32,6 @@ As a mother of two, I balance my analytical mindset with creativity and adaptabi
 - **Google Data Analytics Professional Certificate**  
 - **Bachelor of Engineering (Hons) in Electronics**  
 
-## 📄 Resume
-[🔗 View My Resume](#) *(Link your resume here)*  
-
 ## 📬 Contact Me
 📌 [**LinkedIn**](https://www.linkedin.com/in/rae-siow-59367663/)  
 📌 [**Tableau Public**](https://public.tableau.com/app/profile/rae.siow/viz/BikeShare_17426202696680/Dashboard)  
