@@ -37,5 +37,5 @@ As a mother of two, I balance my analytical mindset with creativity and adaptabi
 
 ## 📬 Contact Me
 📌 [**LinkedIn**](https://www.linkedin.com/in/rae-siow-59367663/)  
-📌 [**Tableau Public**](https://public.tableau.com/app/profile/rae.siow/viz/bike_share_17343442737480/Dashboard2#1)  
+📌 [**Tableau Public**](https://public.tableau.com/app/profile/rae.siow/viz/BikeShare_17426202696680/Dashboard)  
 
