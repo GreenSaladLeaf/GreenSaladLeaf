@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hi, I’m **Hui Hui Siow**, but you can call me **Rae**! I’m a data analytics enthusiast based in **Adelaide, Australia**. With a background in **engineering** and a passion for uncovering insights from massive datasets, I enjoy using **SQL** to explore and analyze data. I find satisfaction in solving problems and discovering meaningful patterns that drive decision-making.
+Hi, I’m **Hui Hui Siow**, but you can call me **Rae**! I’m a data analytics enthusiast based in **Adelaide, Australia**. With a background in **engineering** and a passion for uncovering insights from massive datasets, I enjoy using **SQL** to explore and analyse data. I find satisfaction in solving problems and discovering meaningful patterns that drive decision-making.
 
 As a mother of two, I balance my analytical mindset with creativity and adaptability—skills that are valuable both in life and data analytics.
 
@@ -20,11 +20,11 @@ As a mother of two, I balance my analytical mindset with creativity and adaptabi
 
 ### 🚴 Bike-Share Analysis (Cyclistic Case Study)
 - **Tools Used:** SQL, Tableau  
-- **Overview:** This project analyzes a bike-share company's data to uncover ridership trends between members and casual users.  
+- **Overview:** This project analyses a bike-share company's data to uncover ridership trends between members and casual users.  
 - **Key Learnings:**  
   - Data cleaning and transformation using SQL  
   - Structuring analytical reports  
-  - Overcoming challenges in data preparation and visualization  
+  - Overcoming challenges in data preparation and visualisation  
 
 [🔗 View Full Project](https://github.com/GreenSaladLeaf/bike_share/blob/main/README.md) 
 
