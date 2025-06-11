@@ -1,8 +1,8 @@
-# Hui Hui Siow (Rae) - Data Analytics Portfolio
+# Rae Siow - Data Analytics Portfolio
 
 ## 👋 About Me
 
-Hi, I’m **Hui Hui Siow**, but you can call me **Rae**! I’m a data analytics enthusiast based in **Adelaide, Australia**. With a background in **engineering** and a passion for uncovering insights from massive datasets, I enjoy using **SQL** to explore and analyse data. I find satisfaction in solving problems and discovering meaningful patterns that drive decision-making.
+Hi, I’m a data analytics enthusiast based in **Adelaide, Australia**. With a background in **engineering** and a passion for uncovering insights from massive datasets, I enjoy using **SQL** to explore and analyse data. I find satisfaction in solving problems and discovering meaningful patterns that drive decision-making.
 
 As a mother of two, I balance my analytical mindset with creativity and adaptability—skills that are valuable both in life and data analytics.
 
@@ -12,9 +12,7 @@ As a mother of two, I balance my analytical mindset with creativity and adaptabi
 - Finding insights in large datasets
 
 ## 🌱 I’m currently learning...
-- Advanced SQL techniques
-- Data visualization best practices
-- Expanding my skills in R programming and Python
+- Expanding my skills in Python
 
 ## 📊 My Projects
 
